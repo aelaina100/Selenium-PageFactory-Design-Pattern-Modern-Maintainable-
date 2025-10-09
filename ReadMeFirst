@@ -1,0 +1,7 @@
+1- Start by reviewing: faceBookLogin.java
+	which will lead you to: faceBookLoginPage.java & AbstractPaga.java
+	
+	
+	2- Then comprehend the hardcoded TC titled hardCoded_ProductCatalogue.java		
+		This hardcoded TC will have its real-time corresponding TC "ProductCatalogue.java" 
+		which naturally connects to its Page Factory .java class.
